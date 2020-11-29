@@ -47,5 +47,3 @@ To make the notebook work with your email add the personnal email in the data/in
 Your now ready to use the notebook. You have to open a terminal and go to the root folder of the notebook and type :
 
 `python3 Main.py`
-
-you should see
